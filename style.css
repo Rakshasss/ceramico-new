@@ -156,7 +156,6 @@ img {
     gap: 8px;
     font-size: 12px;
     font-weight: 400;
-    letter-spacing: 0.08em;
     color: var(--text-muted);
 }
 
